@@ -1,0 +1,1 @@
+terraform import liara_example.test "id-123"
